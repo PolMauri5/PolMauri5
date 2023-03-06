@@ -9,7 +9,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" width="70px"/>
 </a>
 
-## LEARNING
+## Technologies
 <div>
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" width="100px">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="Web" width="100px">
