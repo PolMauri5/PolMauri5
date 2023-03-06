@@ -6,7 +6,7 @@
 
 ## Connect with me(in progress):
 <a href="https://www.linkedin.com/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" width="100px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIN" width="70px"/>
 </a>
 
 ## LEARNING
