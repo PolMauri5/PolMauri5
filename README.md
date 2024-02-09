@@ -17,8 +17,6 @@
   <br><br>
   <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="115px">
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="85px">
-![logo](https://github.com/PolMauri5/PolMauri5/assets/102322273/c89700db-d342-44ae-bcb1-ed2cdac88d9f)
-
   
 </div>
 
