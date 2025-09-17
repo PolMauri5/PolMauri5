@@ -1,22 +1,26 @@
-### Welcome👋
-## A humble mobile dev from Spain!
+### Hey, it's Pol.
 
-- 🌱 Currently working on **mobile app development** skills
-- 📫 How to reach me: Polmauri5@gmail.com
+I’m a passionate IT professional with a solid foundation in microcomputing and networking systems. Recently, I completed my Higher Vocational Training in Cross Platform App Development at La Salle Gràcia. As a self-taught developer, I’ve honed my skills in various technologies and am always eager to learn more and take on new challenges.
 
+## Technologies & Tools
+ - **Languages:** PHP, TypeScript, JavaScript, Rust, Python, SQL, 
+ - **Tools & Frameworks:** Laravel, React, React Native, Next.js, 
+ - **Databases:** MySQL, PGSQL, Firestore, MongoDB, SQL Server
+ - **Other Skills:** App Development, Web Development, Web3 Development (Learning)
 
-## Technologies
-<div>
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="90px">
-  <img src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="Web" width="140px">
-  <img src="https://lenguajecss.com/css/logo.svg" alt="Web" width="80px">
-  <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Web" width="145px">
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python" width="140px">
-  <img src="https://sanchezcorbalan.es/wp-content/uploads/Logo-bash-cubo_dark-1.png" alt="Bash" width="90px"> 
-  <br><br>
-  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="React Native" width="115px">
-  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="Node.js" width="85px">
-  
-</div>
+## Professional Experience
+- **Full Stack Web Developer & Architect** @ Ecoceutics (Contract, ongoing, 7+ months)
+- **App Developer** @ Intelifarma (Freelance, Project-based)
+- **Full Stack Web Developer** @ OptimaRetail (Internship, 4 months)
+- **IT Technician** @ Escola Pia Nostra Aenyora (Internship, 5 months)
 
+## Education
+- **Higher Vocational Training** in Cross Platform App Development - La Salle Gràcia (2022 - 2024)
+- **Vocational Training** in Micro-computing and Networking Systems - Escola Pia Santa Anna (2020 - 2022)
 
+##  What I’m Learning
+I’m currently diving deeper into Web3 and smart contracts, exploring how decentralized technologies can reshape industries through transparency, security, and trustless interactions.
+
+## How to Reach Me
+- **LinkedIn:** [Pol Mauri](https://www.linkedin.com/in/pol-mauri-villanova/)
+- **Email:** [polmauri5@gmail.com](mailto:polmauri5@gmail.com)
