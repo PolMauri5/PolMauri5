@@ -9,7 +9,7 @@ I’m a passionate IT professional with a solid foundation in microcomputing and
  - **Other Skills:** App Development, Web Development, Learingn(Quantitative skills)
 
 ## Professional Experience
-- **Full Stack Web Developer & Architect** @ Ecoceutics (Contract, ongoing, 10+ months)
+- **Full Stack Web Developer & Architect** @ Ecoceutics (Contract, ongoing, 1+ year)
 - **App Developer** @ Intelifarma (Freelance, Project-based)
 - **Full Stack Web Developer** @ OptimaRetail (Internship, 4 months)
 - **IT Technician** @ Escola Pia Nostra Aenyora (Internship, 5 months)
