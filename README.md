@@ -1,6 +1,6 @@
 ### Hey, it's Pol.
 
-I’m a passionate IT professional with a solid foundation in microcomputing and networking systems. Recently, I completed my Higher Vocational Training in Cross Platform App Development at La Salle Gràcia. As a self-taught developer, I’ve honed my skills in various technologies and am always eager to learn more and take on new challenges.
+CS professional with a solid foundation in microcomputing and networking systems. Recently, I completed my Higher Vocational Training in Cross Platform App Development at La Salle Gràcia.
 
 ## Technologies & Tools
  - **Languages:** PHP, Rust, TypeScript, Python, SQL, 
